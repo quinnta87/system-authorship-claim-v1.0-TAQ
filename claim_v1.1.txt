@@ -1,0 +1,6 @@
+Public authorship claim for structural protocol version 1.1
+Date: 2025-05-11
+Author: Thomas A. Quinn DO
+SHA-256: 52098c4eb985fac58b6da800f6bf97587e9b2ab34f53e6f5f30521422fa2cbd3
+Reference materials not included in this repository.
+Verification available upon request.
